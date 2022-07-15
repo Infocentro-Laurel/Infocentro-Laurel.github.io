@@ -122,11 +122,11 @@ hr {
 }
 /* Home Style */
 header {
-	background: url(../img/portadi.jpg) no-repeat bottom center;
+	background: url(../img/portada.jpg) no-repeat bottom center;
 	background-size: cover;
 	color: #cfcfcf;
 	position: relative;
-	height: 100%;
+	height: 80%;
 }
 header p {
 	color: rgba(255,255,255,0.5);
