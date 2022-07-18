@@ -15,14 +15,14 @@ h2 {
 	font-size: 36px;
 	font-weight: 300;
 	margin-bottom: 20px;
-	color: #666;
+	color: #71bd46;
 }
 h3 {
 	font-size: 16px;
 	font-weight: 600;
 }
 h4 {
-	color: #666;
+	color: #71bd46;
 	font-size: 20px;
 }
 h5 {
@@ -84,7 +84,7 @@ hr {
 }
 #menu a.navbar-brand {
 	font-size: 22px;
-	color: #ddd;
+	color: #71bd46;
 	font-weight: 700;
 }
 #menu a.navbar-brand i.fa {
@@ -100,7 +100,7 @@ hr {
 	color: #71bd46;
 }
 .on {
-	background-color: #222222 !important;
+	background-color: #1D201D !important;
 	padding: 0 !important;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
@@ -122,7 +122,7 @@ hr {
 }
 /* Home Style */
 header {
-	background: url(../img/h.jpg) no-repeat bottom center;
+	background: url(../img/o.jpg) no-repeat bottom center;
 	background-size: cover;
 	color: #cfcfcf;
 	position: relative;
@@ -135,7 +135,7 @@ header p {
 	margin-bottom: 60px;
 	padding: 0 4px;
 }
-.intro-text {
+.intro-text {s
 	position: relative;
 	padding-top: 250px;
 	padding-right: 0;
@@ -421,16 +421,16 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 /* Footer */
 #footer {
-	background-color:#F0FFFF;
+	background-color:#FfFFFF;
 	color: #000000;
 	padding: 0px  0px 0;
 }
 #footer p {
-	font-size: 13px;
-	margin-top: 10px;
+	font-size: 14px;
+	margin-top: 16px;
 }
 #footer a {
-	color: #aaa;
+	color: #338E2E;
 }
 #footer a:hover, #footer a:focus {
 	text-decoration: none;
@@ -458,7 +458,7 @@ label {
 #contact {
   background: #3B3B3B url('../img/imgg.jpg') no-repeat center center;
   background-size: cover;
-  color: #ffffff;
+  color: #71bd46;
 }
 #contact h2 {
   padding-bottom: 20px;
@@ -477,10 +477,10 @@ label {
   padding-bottom: 14px;
 }
 #contact form {
-  padding-top: 60px;
+  padding-top: 80px;
 }
 #contact .form-control {
-  border: 2px solid #ffffff;
+  border: 2px solid #71bd46;
   border-radius: 0;
   box-shadow: none;
   margin-top: 10px;
@@ -496,9 +496,9 @@ label {
   letter-spacing: 1px;
   margin-top: 18px;
   height: 50px;
-  color: #ffffff;
+  color: #71bd46;
 }
 #contact input[type="submit"]:hover {
-  color: #000000;
+  color: #71bd46;
 }
 
